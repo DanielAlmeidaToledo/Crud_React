@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "id": 700,
+      "title": "Pc gamer",
+      "quant": "20",
+      "price": "10000"
+    }
+  ]
+}
